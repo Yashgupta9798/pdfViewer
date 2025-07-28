@@ -1,0 +1,9 @@
+
+
+# gpt-4o-mini credentialss
+
+AZURE_OPENAI_ENDPOINT_4o="Please provide AZURE_ENDPOINT"
+AZURE_OPENAI_API_KEY_4o="Provide API Key"
+AZURE_OPENAI_API_VERSION_4o="Provide API key Version"
+
+ADOBE_CLIENT_ID=Provide your adobe client id
